@@ -1,0 +1,207 @@
+.we {
+    margin-left: 65px;
+}
+
+.btn {
+    border-radius:30px;
+    background-color: aquamarine;
+    color:aliceblue
+}
+
+.entire{
+    background-color: #37517e;
+    height:500px;
+}
+
+.h1 h1{
+    color:white;
+    margin-top: 50px;
+}
+
+p{
+    color:white;
+    font-size: 60px;
+}
+
+.image{
+
+    float:right;
+    margin-right: 80px;
+    animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+    
+}
+
+@keyframes example {
+    0%   {transform: scale(1);}
+    50%  {transform: scale(1.2);}
+    100% {transform: scale(1);}
+  }
+
+
+.rows{
+    background-color: #d1ceda;
+    height:18vh;
+    
+}
+
+.change{
+    
+   
+}
+.col-1{
+    display: inline-block;
+ margin-left: 80px;
+ animation-name: example;
+ animation-duration: 4s;
+ animation-iteration-count: infinite;
+}
+
+.roww p{
+    display: inline;
+    color:orange;
+    font-size: 20px;
+}
+
+.roww h2{
+    text-align: center;
+}
+
+.col-3 p{
+    color:black;
+    font-size: 15px;
+    margin-left: 15px;
+}
+
+
+.col-3 h3{
+    margin-left: 15px;
+    font-size: 35px;
+}
+
+
+
+.img{
+    float:right;
+    margin-right: 80px;
+}
+
+.ke{
+    font-size: 25px;
+}
+
+.le p{
+    color: black;
+    font-size: medium;
+    margin-left: 15px;
+}
+
+
+.row gx-5{
+    margin-top: 80px;
+}
+
+
+
+
+
+
+
+.end{
+    margin-left: 500px;
+}
+
+.para{
+    text-align: center;
+    
+}
+
+.para p{
+    font-size: 18px;
+    color:black;
+}
+.asmir{
+    height: 400px;
+
+}
+
+.con h2 {
+   margin-top: 30px;
+}
+
+
+.bg-img {
+    background-image: url("im90.jpg");
+    width:100%;
+    height:300px;
+   background-size: cover;
+    background-attachment:fixed;
+   }
+
+.cam p{
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 40px;
+    color: white;
+}   
+
+.cam h2{
+    padding-top: 90px;
+    padding-left: 40px;
+    color: white;
+}
+
+.bridge {
+    margin-left: 950px;
+    margin-top: -70px;
+}
+
+
+.bridge button{
+    background-color: rgb(9, 76, 54);
+    color:aliceblue
+}
+
+
+
+
+ /* Custom CSS */
+ .portfolio-item {
+    position: relative;
+    overflow: hidden;
+  }
+  .portfolio-item .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 90%;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    margin:18px;
+  }
+  .portfolio-item:hover .overlay {
+    opacity: 1;
+  }
+
+
+  .uki img{
+	width:140px;
+	height:140px;
+display:inline-block;
+margin:40px;
+margin-left:20px;
+border-radius:120px;
+}
+
+
+.car {
+    border-radius: 120px;
+}
+
+.uki h6{
+   
+}
